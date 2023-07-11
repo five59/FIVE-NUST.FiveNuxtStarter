@@ -20,4 +20,3 @@ An Opinionated Nuxt 3 Starter Project
 - [TailwindCSS](https://tailwindcss.com/docs/installation)
 - [GSAP](https://greensock.com/docs/)
 - [Googler Fonts](https://fonts.google.com/)
-
