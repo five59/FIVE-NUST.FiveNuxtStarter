@@ -1,11 +1,11 @@
-# FiveNuxt 
+# FiveNuxtStarter
 
 An Opinionated Nuxt 3 Starter Project
 
 ## Components
 
 - [Nuxt 3](https://nuxt.com/docs/)
-- Modules
+- Configured Modules
   - [TailwindCSS Module](https://nuxt.com/modules/tailwindcss)
   - [Devtools Module](https://nuxt.com/modules/devtools)
   - [Image Module](https://nuxt.com/modules/image)
