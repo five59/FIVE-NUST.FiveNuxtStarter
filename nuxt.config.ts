@@ -7,20 +7,12 @@ export default defineNuxtConfig({
         '@nuxtjs/google-fonts',
         '@nuxt/content',
         'nuxt-icon',
-        '@formkit/nuxt'
+        '@formkit/nuxt',
+        '@hypernym/nuxt-gsap'
     ],
     content: {
         // https://content.nuxtjs.org/api/configuration
     },
     image: {},
-    googleFonts: {
-        families: {
-            // Roboto: true,
-            // 'Josefin+Sans': true,
-            // Lato: [100, 300],
-            // Raleway: {
-            //   wght: [100, 400],
-            //   ital: [100]
-        },
-    }
+    googleFonts: {}
 })
