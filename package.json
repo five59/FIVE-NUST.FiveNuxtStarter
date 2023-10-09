@@ -6,7 +6,8 @@
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "postinstall": "nuxt prepare"
+    "postinstall": "nuxt prepare",
+    "version": "auto-changelog -p && git add CHANGELOG.md"
   },
   "devDependencies": {
     "@hypernym/nuxt-gsap": "^2.2.2",
@@ -16,7 +17,8 @@
     "@nuxtjs/google-fonts": "^3.0.1",
     "@nuxtjs/tailwindcss": "^6.8.0",
     "@types/node": "^18.16.19",
-    "nuxt": "^3.6.2",
+    "nuxt": "^3.7.4",
+    "auto-changelog": "^2.4.0",
     "nuxt-icon": "^0.4.2"
   },
   "dependencies": {
